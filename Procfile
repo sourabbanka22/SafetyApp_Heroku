@@ -1,0 +1,1 @@
+web: gunicorn SafetyApp_Sourab.wsgi --log-file -
